@@ -1,0 +1,7 @@
+{
+  "name": "nithan-skills",
+  "displayName": "nithan-skills",
+  "version": "0.1.0",
+  "description": "Plan a feature in phases, then implement one phase or the rest of the plan.",
+  "skills": "./skills/"
+}
