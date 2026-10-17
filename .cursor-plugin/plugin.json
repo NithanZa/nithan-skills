@@ -1,7 +1,7 @@
 {
   "name": "nithan-skills",
   "displayName": "nithan-skills",
-  "version": "0.1.0",
-  "description": "Plan a feature in phases, then implement one phase or the rest of the plan.",
+  "version": "0.2.0",
+  "description": "Plan a feature in phases, implement one phase or the rest of the plan, and write clearly.",
   "skills": "./skills/"
 }
