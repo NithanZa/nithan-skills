@@ -59,7 +59,7 @@ Check for an existing plan directory in this order:
 Rules:
 - **If one exists, use it.**
 - **If multiple exist**, choose the one most actively used or relevant to the feature.
-- **If none exist**, create `/docs/plan/`.
+- **If none exist**, create `/docs/plans/initial-plan` or whatever folder name would suit best.
 - Follow existing organization and naming conventions whenever possible.
 
 ---
@@ -90,7 +90,6 @@ Break the feature into logical implementation phases.
 
 ### Phasing rules
 
-- Prefer **3–7 phases**, but adjust based on complexity.
 - Each phase should have a clear outcome and verifiable completion criteria.
 - Order phases by dependencies so they can be implemented sequentially.
 - Keep each phase focused and reasonably self-contained.
